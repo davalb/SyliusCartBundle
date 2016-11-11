@@ -20,7 +20,7 @@ $ bin/phpspec run -f pretty
 Documentation
 -------------
 
-Documentation is available on [**docs.sylius.org**](http://docs.sylius.org/en/latest/bundles/SyliusCartBundle/index.html).
+Documentation is available on [**docs.sylius.org**](http://docs.sylius.org).
 
 Contributing
 ------------
